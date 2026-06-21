@@ -81,8 +81,8 @@ The script is divided into four main stages:
 
 ### 3. Count the number of miRNAs in every database
 
-- The number of miRNAs in each database is determined using the local copies of each repository
+- The number of miRNAs in each database is determined using the local copies of each repository.
 
 ### 4. Graphical representations
 
-- The dataset's hybrid plots are generated
+- The dataset's hybrid plots are generated.
