@@ -40,7 +40,7 @@ No additional external dependencies are required.
 Run the script from the terminal or a Python environment:
 
 ```bash
-python strip_plot_DB.py -i <input_file> -o <output_file>
+python strip_plot_DB.py -i <input_file> -o <output_file> [-db <databases>] [-s <specie>]
 ````
 
 Arguments
