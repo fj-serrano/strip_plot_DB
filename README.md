@@ -16,6 +16,11 @@ This Python script generates several hybrid plots by overlaying box plots and st
 	-	edgeR_[Condition 1]_vs_[Condition 2].tsv
 	-	limma_[Condition 1]_vs_[Condition 2].tsv
 
+- **Directory containing local copies of databases**
+  - Each file must be named after its corresponding database.
+	-	miRBase
+	-	mircarta
+	-	mirgenedb
 ---
 
 ## Requirements
