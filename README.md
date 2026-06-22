@@ -17,6 +17,7 @@ This Python script generates several hybrid plots by overlaying box plots and st
 	-	limma_[Condition 1]_vs_[Condition 2].tsv
 
 - **Directory containing local copies of databases**
+  - Selected by the user 
   - Each file must be named after its corresponding database.
 	-	miRBase
 	-	mircarta
