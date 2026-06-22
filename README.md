@@ -48,6 +48,8 @@ Arguments
 | --- | --- | --- | --- | --- |
 | -i | --input | Yes | Path to the input file | - |
 | -o | --output | Yes | Path to the output file | - |
+| -db | --databases | No | Path to the local copies of databases | /shared/bak/TFG/serrano/db |
+| -s | --specie | No | Specie | Hsa |
 
 ---
 
